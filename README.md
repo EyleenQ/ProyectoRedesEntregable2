@@ -8,7 +8,7 @@ Para el server JAVA 1.8.0 -Versión IDE de Java JDK Java 8 - Version del JDK Net
 
 Clonar Proyecto Utilizando la información previa, se instalan las herramientas. Una vez están listas se puede clonar el repositorio.
 
-Abrir NetBeans ir a Team->Git->Clone En el campo que dice Url del repositorio se ingresa https://github.com/EyleenQ/ProyectoRedesEntregable1.git En los campo para usuario y clave se ingresar las credenciales correctas. Después dar clic al botón de siguiente y se debe seleccionar la casilla que dice master.
+Abrir NetBeans ir a Team->Git->Clone En el campo que dice Url del repositorio se ingresa https://github.com/EyleenQ/ProyectoRedesEntregable2.git En los campo para usuario y clave se ingresar las credenciales correctas. Después dar clic al botón de siguiente y se debe seleccionar la casilla que dice master.
 
 
 ## Instalar Proyecto
@@ -40,6 +40,6 @@ Podremos ingresar los datos de un nuevo usuario y registrarlos en la base de dat
 
 ### El Cliente:
 
-Tendremos la opción de ingresar los datos para establecer conexión con el servidor. Una vez establecida la conexión, si no hay una carpeta en el cliente con el usuario que se conecto, entonces se creara una con el nombre del usuario y se cargaran los archivos que estan en el servidor en su carpeta asociada. En el caso contrario de que si exista una carpeta asociada, se comprobaran los archivos de ambas para que los datos del servidor y el cliente sean iguales, para esto se enviaran y recibiran los archivos necesarios.
+Tendremos la opción de ingresar los datos para establecer conexión con el servidor. Una vez establecida la conexión, si no hay una carpeta en el cliente con el usuario que se conecto, entonces se creara una con el nombre del usuario y se cargaran los archivos que estan en el servidor en su carpeta asociada. En el caso contrario de que si exista una carpeta asociada, se comprobaran los archivos de ambas para que los datos del servidor y el cliente sean iguales, para esto se enviaran y recibirán los archivos necesarios.
 
-Una vez finalizado completamente la conexion inicial, si le cliente realiza algun cambio en su carpeta, como añadir, eliminar o modificar un archivo, automaticamente estos cambios seran realizados en la carpeta asociada en el servidor. 
+Una vez finalizado completamente la conexión inicial, si le cliente realiza algún cambio en su carpeta, como añadir, eliminar o modificar un archivo, automáticamente estos cambios serán realizados en la carpeta asociada en el servidor.
