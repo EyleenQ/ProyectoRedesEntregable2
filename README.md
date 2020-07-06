@@ -17,4 +17,4 @@ Una vez se tenga el proyecto clonado en NetBeans se debe hacer lo siguiente: Abr
 
 ## Setup Base de datos
 
-Abrir MySQL Workbench 8.0 Selecciona la opción de agregar nueva conexión. 
+Abrir MySQL Workbench 8.0 Selecciona la opción de agregar nueva conexión. Para crear la base de datos, solamente debe seguir la estructura que se muestra [aquí](https://github.com/EyleenQ/ProyectoRedesEntregable2/wiki/Script-Base-de-Datos).
