@@ -15,12 +15,12 @@ Abrir NetBeans ir a Team->Git->Clone En el campo que dice Url del repositorio se
 
 Una vez se tenga el proyecto clonado en NetBeans se debe hacer lo siguiente: Abrir el proyecto que desea ejecutar(FTPServer o FTPCliente) Buscar la raíz del proyecto y posicionarse sobre esta, específicamente sobre el nombre Revisar que tenga los requerimientos asociados mencionados. Colocarse en la raíz del proyecto. Seleccionar clic derecho sobre el proyecto>Run.
 
-### Setup Base de datos
+## Setup Base de datos
 
 Abrir MySQL Workbench 8.0 Selecciona la opción de agregar nueva conexión. Para crear la base de datos, solamente debe seguir la estructura que se muestra [aquí](https://github.com/EyleenQ/ProyectoRedesEntregable2/wiki/Script-Base-de-Datos).
 Una vez creada, se debe acceder a la carpeta del proyecto>Source Packages>ConexionBaseDatos>ConexionSQL e ingresar las credenciales necesarias para que pueda realizar la conexión con la base de datos de acuerdo con la dirección del servidor de base de datos que esté utilizando.
 
-### Ejecutar Aplicación
+## Ejecutar Aplicación
 
 Cuando todos los requerimientos estén instalados y listos, se podrá ejecutar la aplicación siguiendo los siguientes pasos:
 
@@ -34,11 +34,11 @@ Cuando todos los requerimientos estén instalados y listos, se podrá ejecutar l
 
 Cuando el aplicación esta corriendo
 
-# El Servidor:
+### El Servidor:
 
 Podremos ingresar los datos de un nuevo usuario y registrarlos en la base de datos y crear su carpeta asociada. También se podrá permitir la conexión con los clientes, así como enviar, recibir y eliminar archivos del cliente conectado.
 
-# El Cliente:
+### El Cliente:
 
 Tendremos la opción de ingresar los datos para establecer conexión con el servidor. Una vez establecida la conexión, si no hay una carpeta en el cliente con el usuario que se conecto, entonces se creara una con el nombre del usuario y se cargaran los archivos que estan en el servidor en su carpeta asociada. En el caso contrario de que si exista una carpeta asociada, se comprobaran los archivos de ambas para que los datos del servidor y el cliente sean iguales, para esto se enviaran y recibiran los archivos necesarios.
 
