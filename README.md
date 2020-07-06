@@ -10,3 +10,11 @@ Clonar Proyecto Utilizando la información previa, se instalan las herramientas.
 
 Abrir NetBeans ir a Team->Git->Clone En el campo que dice Url del repositorio se ingresa https://github.com/EyleenQ/ProyectoRedesEntregable1.git En los campo para usuario y clave se ingresar las credenciales correctas. Después dar clic al botón de siguiente y se debe seleccionar la casilla que dice master.
 
+
+## Instalar Proyecto
+
+Una vez se tenga el proyecto clonado en NetBeans se debe hacer lo siguiente: Abrir el proyecto que desea ejecutar(FTPServer o FTPCliente) Buscar la raíz del proyecto y posicionarse sobre esta, específicamente sobre el nombre Revisar que tenga los requerimientos asociados mencionados. Colocarse en la raíz del proyecto. Seleccionar clic derecho sobre el proyecto>Run.
+
+## Setup Base de datos
+
+Abrir MySQL Workbench 8.0 Selecciona la opción de agregar nueva conexión. 
