@@ -15,12 +15,12 @@ Abrir NetBeans ir a Team->Git->Clone En el campo que dice Url del repositorio se
 
 Una vez se tenga el proyecto clonado en NetBeans se debe hacer lo siguiente: Abrir el proyecto que desea ejecutar(FTPServer o FTPCliente) Buscar la raíz del proyecto y posicionarse sobre esta, específicamente sobre el nombre Revisar que tenga los requerimientos asociados mencionados. Colocarse en la raíz del proyecto. Seleccionar clic derecho sobre el proyecto>Run.
 
-## Setup Base de datos
+### Setup Base de datos
 
 Abrir MySQL Workbench 8.0 Selecciona la opción de agregar nueva conexión. Para crear la base de datos, solamente debe seguir la estructura que se muestra [aquí](https://github.com/EyleenQ/ProyectoRedesEntregable2/wiki/Script-Base-de-Datos).
 Una vez creada, se debe acceder a la carpeta del proyecto>Source Packages>ConexionBaseDatos>ConexionSQL e ingresar las credenciales necesarias para que pueda realizar la conexión con la base de datos de acuerdo con la dirección del servidor de base de datos que esté utilizando.
 
-## Ejecutar Aplicación
+### Ejecutar Aplicación
 
 Cuando todos los requerimientos estén instalados y listos, se podrá ejecutar la aplicación siguiendo los siguientes pasos:
 
