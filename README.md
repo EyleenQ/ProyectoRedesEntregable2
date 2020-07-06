@@ -36,7 +36,7 @@ Cuando el aplicación esta corriendo
 
 ### El Servidor:
 
-Podremos ingresar los datos de un nuevo usuario y registrarlos en la base de datos y crear su carpeta asociada. También se podrá permitir la conexión con los clientes, así como enviar, recibir y eliminar archivos del cliente conectado.
+Podremos ingresar los datos de un nuevo usuario para registrarlos en la base de datos y crear su carpeta asociada. También se podrá permitir la conexión con los clientes, así como enviar, recibir y eliminar archivos del cliente conectado.
 
 ### El Cliente:
 
