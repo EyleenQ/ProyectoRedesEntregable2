@@ -1,0 +1,60 @@
+//guia de como generar las consultas
+
+double valor = jOption(indique el valor a convertir)
+int opcionUno = jOption(1-longitud, 2-..., 3-... indique el tipo de conversion)
+
+If(opcionUno == 1){
+	int opcionDos = jOption(1-deCentimetro, 2-..., 3-... indique el tipo del numero ingresado)
+	if(opcionDos == 1){
+		int opcionTres = jOption(1-aCentimetro, 2-..., 3-... indique el tipo al que quiere convertir)
+		//y aqui tiene dos opciones
+		//opcion 1
+		resultado = conversion(opcionUno,opcionDos,opcionTres,valor);
+		//opcion2
+		resultado = deCentimetro(valor, opcionTres);
+	}
+	if(opcionDos == 2){
+		int opcionTres = jOption(1-aCentimetro, 2-..., 3-... indique el tipo al que quiere convertir)
+	}
+	if(opcionDos == 3){
+		int opcionTres = jOption(1-aCentimetro, 2-..., 3-... indique el tipo al que quiere convertir)
+	}
+	.
+	.
+	.
+
+}else{
+	if(opcionUno == 2){
+		int opcionDos = jOption(1-de..., 2-..., 3-... indique el tipo del numero ingresado)
+		if(opcionDos == 1){
+			int opcionTres = jOption(1-aCentimetro, 2-..., 3-... indique el tipo al que quiere convertir)
+		}
+		if(opcionDos == 2){
+			int opcionTres = jOption(1-aCentimetro, 2-..., 3-... indique el tipo al que quiere convertir)
+		}
+		if(opcionDos == 3){
+			int opcionTres = jOption(1-aCentimetro, 2-..., 3-... indique el tipo al que quiere convertir)
+		}
+		.
+		.
+		.
+	}else{
+		if(opcionUno == 3){
+			int opcionDos = jOption(1-..., 2-..., 3-... indique el tipo del numero ingresado)
+			if(opcionDos == 1){
+				int opcionTres = jOption(1-aCentimetro, 2-..., 3-... indique el tipo al que quiere convertir)
+			}
+			if(opcionDos == 2){
+				int opcionTres = jOption(1-aCentimetro, 2-..., 3-... indique el tipo al que quiere convertir)
+			}
+			if(opcionDos == 3){
+				int opcionTres = jOption(1-aCentimetro, 2-..., 3-... indique el tipo al que quiere convertir)
+			}
+			.
+			.
+			.
+		}else{
+			Jopctionmensaje(el numero es inconrrecto)
+		}
+	}
+}

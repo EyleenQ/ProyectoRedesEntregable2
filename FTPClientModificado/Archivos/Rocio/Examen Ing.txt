@@ -1,0 +1,29 @@
+Examen a la 8:30-12:00
+Parecido a la vez pasada
+3Horas    ....puede ser 3:30
+I Parte(30pts)
+	9 preguntas complete y la ultima codigo fuente
+II Parte
+	10 de desarrollo(70pts)
+	principios solid salen-(no explicar injeccion) deme un ejemplo donde eso se aplique injeccion de dependicia o dependencia inversa
+	va a ser muy practico- no va a preguntar del primero pero hay que sbaer hacer diagramas(D.secuencia)
+Pregunta-como aplicar una estragia incremental descendete en su proyecto(presentacion 10.1/pruebas)
+
+Ampli: sabado, puede que haga proyecto, 
+charla de 8 a 9:30 y luego examen
+
+¿como aplicar una estragia incremental descendete en su proyecto?(presentacion 10.1/pruebas)
+
+En el caso de tener que aplicar una estrategia incremental descendende, primero seleccionaria cual tipo de integracion realizar, que en mi caso escogeria el de profundidad, asi cuando empiezo probando un subsistemas empiezo de un parte mas general, hasta la primera seccion mas pequeña para luego retroceder hasta la siguiente parte y analizar la siguiente seccion y asi llevar acabo la prueba de todo el proyecto, es decir, imaginando que tengo organizado por un arbol mi proyecto, donde tengo al modulo cliente y al administrador, estos a su vez se divide en ciertas partes como lo pueden el mostrar vistasCliente->(Home, facilidades,reserva), admnistrador->(modificar pagina,lista reservaciones,estadohotel), el modificar pagina->(mhome,mfacilidades), entonces teniendo esto organizado en un arbol como se menciono, iniciaria por el subsistema del cliente e iria probando en el orden en que se encuentra organizado primero home, al no tener mas subdivicines, facilidades, luego reserva en la cual se realiza toda la reserva completa ya que en esta se divide en busqueda y reservacion, luego me devulvo y empiezo con el modulo del administrador, en este caso modificr pagina tiene subdivisiones asi que de una vez voy y pruebo la subdivision de mhome, luego me devulevo y pruebo la de mfacilidades, pearo luego volver y seguir probando las otras divisiones de administrador que serian lista reservaciones y estadohotel. De esta manera realizo la prueba total de todo el proyecto
+
+– Comienza por el subsistema de control principal y va
+incorporando subsistemas subordinados progresivamente. – Existen dos formas básicas de hacer esta integración:
+• Primero en profundidad: completando ramas del árbol (A B E C F G D)
+• Primero en anchura: completando niveles de jerarquía (A B C D E F G)
+
+1codigo o modelo entre herencia y composicion patrones de dise;o
+2mantenimiento
+3ka
+4
+
+8.primero prueba a tal cosa y luego a tal otra.

@@ -1,0 +1,65 @@
+Costa Rica centa con algunas leyes que controlar diferentes ambitos de las TIC, aqui mencionare algunas primero esta:
+////////
+Ley 8454 de certificados, firmas digitales y documentos electrónicos
+
+Publicada en 2005
+EN donde su objetivo es establecer el marco jurídico general para la utilización transparente, confiable y segura en nuestro medio de los documentos electrónicos y la firma digital en las entidades públicas y privadas.
+En  esta como se meciona se trabaja con la transparencia de las empresas y para esto hace un uso de las tecnologias para failitar el acceso de tanto empresas como personas a informacion de importancia y de esta manera monitorear lo que dichas entidades realizan de manera transparente y confiable para sus usuarios.
+Aun que se sabe que en muchos casos las personas logran esquivar este tipo de leyes o medidas que se hacen para el control y es ahi donde se deberia de realizar un mejor trabajo donde se reduja todo lo posible las opciones de las empresas de reportar por ejemplo su ganancia, y puedo pensar que con tanta tecnologia que hay como es que esto aun pasa y puede que vaya en aumento, y el problema esta que la tecnologia funciona en ambos lados, le sirve a las personas que tratan de regular y obtener transparencia y le sirve a las empresas para engañar.
+
+//////////////
+Como segunda ley general de telecomunicaciones
+Publicada 2008
+Su objetivo es establecer el ámbito y los mecanismos de regulación de las telecomunicaciones, que comprende el uso y la explotación de las redes y la prestación de los servicios de telecomunicaciones.
+Esta ley es de gran impotancia ya que es necesario contar con medios de comunicacion dia a dia, por lo que se vuelve necesario que sea regulado para que no hayan problemas.
+Esta ley tiene tambien otros objetivos como:
+
+a) Garantizar el derecho de los habitantes a obtener servicios de telecomunicaciones, con un objetivo asi se le esta permitiendo a la sociedad adentrarse en el area de las TIC y que logren tener acceso a nuevas oportunidades, proque aunque una persona este interesada en este area, puede que se le dificulte el acceso, por lo qu es importante el y que las personas si puedan tener el derecho a contar con estos servicios.
+
+d) Pero no solo quiere garantizarlos tambien proteger los derechos de los usuarios de los servicios de telecomunicaciones, asegurando eficiencia, igualdad, continuidad, calidad, mayor y mejor cobertura, mayor y mejor información, más y mejores alternativas en la prestación de los servicios, así como garantizar la privacidad y confidencialidad en las comunicaciones, de acuerdo con la Constitución Política.
+Ademas se tiene claro que no es sobre permitir el acceso a la comunicaicon sino que se debe porteger la informacion privada de las personas, esa inforacion que no debe ser divulgada facilmente.
+
+f) Tambein promueve el desarrollo y uso de los servicios de telecomunicaciones dentro del marco de la sociedad de la información y el conocimiento y como apoyo a sectores como salud, seguridad ciudadana, educación, cultura, comercio y gobierno electrónico.  
+La tecnologia se encuentra en muchas areas y las telecomunicaciones son importantes para mantener una sociedad informada 
+
+i) Procurar que el país obtenga los máximos beneficios del progreso tecnológico y de la convergencia
+
+
+//////////////////////
+Nª 8968 Protección de la persona frente al tratamiento de sus datos personales
+Publicada en 2011
+Es objetivo es garantizar a cualquier persona el respeto a su derecho a la autodeterminación informativa en relación con su vida o actividad privada y demás derechos de la personalidad, así como la defensa de su libertad e igualdad con respecto al tratamiento automatizado o manual de los datos correspondientes a su persona o bienes.
+
+
+//////////////////////
+LEY SOBRE REGISTRO, SECUESTRO Y EXAMEN DE DOCUMENTOS PRIVADOS E
+INTERVENCION DE LAS COMUNICACIONES
+Publicada 1994
+se divide como en dos parte primero
+REGISTRO, SECUESTRO Y EXAMEN DE DOCUMENTOS PRIVADOS
+Los Tribunales de Justicia podrán autorizar el registro, el secuestro o el examen de cualquier documento privado, cuando sea absolutamente indispensable para esclarecer asuntos penales sometidos a su conocimiento.
+
+
+Para los efectos de esta Ley, se consideran documentos privados: la correspondencia epistolar, por fax, télex, telemática o cualquier otro medio; los videos, los casetes, las cintas magnetofónicas, los discos, los disquetes, los escritos, los libros, los memoriales, los registros, los planos, los dibujos, los cuadros, las radiografías, las fotografías y cualquier otra forma de registrar información de carácter privado, utilizados con carácter representativo o declarativo, para ilustrar o comprobar algo.
+
+Y de segundo seria la INTERVENCIÓN DE COMUNICACIONES
+Dentro de los procedimientos de una investigación policial o jurisdiccional, los tribunales de justicia podrán autorizar la intervención de comunicaciones orales, escritas o de otro tipo, incluso las telecomunicaciones fijas, móviles, inalámbricas y digitales, cuando involucre el esclarecimiento de los siguientes delitos: secuestro extorsivo, corrupción agravada, proxenetismo agravado, fabricación o producción de pornografía, tráfico de personas y tráfico de personas para comercializar sus órganos; homicidio calificado; genocidio, terrorismo y los delitos previstos en la Ley sobre estupefacientes, sustancias psicotrópicas, drogas de uso no autorizado, legitimación de capitales y actividades conexas
+
+En las leyes como se ha mencionado se trata de proteger la inforacion de las personas pero en casos como los antes mencionas es donde esto ya no se puede hace, porque es necesario comprobar si la personas acusadas de verdad estan comentiendo el delito y puede que el intervenir en sus comunicaiones es la unica forma de comprobar su culpabilidad, por lo que en casos de este tipo se ven necesarios violar los derechos de una persona que a ido e contra de las leyes, no solo sera sus medios de comunicacion sino tambien sus documentos privados pueden ser estudiados para comprobar si es culpable o no
+
+
+//////////////////////////
+Ley especial para la protección de niñez y la adolescencia frente a la violencia y el delito en el ámbito de las Tecnologías de la Información y la Comunicación (TIC) y modificaciones al Código Penal
+
+En realidad aun no es una ley, sino un Proyecto de ley 
+Y su Objetivo es garantizar la protección de los derechos de la niñez y la adolescencia frente a los riesgos en el ámbito de las tecnologías de la información y la comunicación.
+
+Se dice que el desarrollo de la tecnología ha generado importantes transformaciones en la sociedad actual, y entre ellas se encuentran cambios en los patrones de
+comportamiento y en las relaciones sociales. Y es que cuando no habia tantos celulares como ahora la manera en que se comunicaban las personas era diferente a hace unos años, por ejemplo apesar de que naci cuando la tecnologia ya empezaba a tener fuerza en el lugar donde vivo no fue hasta ya estar en la escula cuando vi y tuve acceso a un telefono o celular pero su uso era totalemente limitado y solo se usaba para llamadas o mensajes y el acceso intenert solo para buscar algo en google pero ni eso se hacia, en cambio ahora se pueden ver como los niños desde edades tan tempranas ya estan metidos en celulares o tablets y conforme crecen se dentran aun mas en esta area y es ahi donde estan en peligro su seguridad por ejemplo el acoso que puede haber en los medios de comunicacion.
+
+Y es que estos cambios se han manifestado en el area de la información y la comunicación, cuyos avances tecnológicos han traído consigo innumerables
+beneficios en los ámbitos sociales, culturales y económicos, y es algo que no se puede negar porque de verdad los avances le permiten al pais, a las empresas y a las personas crecer, pero si no se tiene un control es donde se pueden generar los problemas, porque la informacion es un tema delicado cuando se trata de personas y su privacidad.
+
+
+///////Concluion/////////
+En el pais exiten varias leyes como las que se mencionaron que son de gran importancia y que se encargan de controlar y proteger a las personas frente al uso de las tic, pero pienso que la cantiadad aunque si puede ser importante, hay algo que lo es aun mas, es decir asi hayan pocas o muchas leyes lo que importa es que de verdad se cumplan, que exitan lo mecanismos necesarios para controlar que tanto empresas y personas las lleven acabo y no puedan evadirlas porque de nada serviria el esfuerzo de crear una ley que puede ser de gran ayuda para la sociedad si al final no se le saca provecho.
