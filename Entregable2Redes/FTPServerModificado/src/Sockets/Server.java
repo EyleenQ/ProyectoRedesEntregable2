@@ -152,15 +152,15 @@ public class Server {
                 //Logger.getLogger(Server.class.getName()).log(Level.SEVERE, null, ex);               
                 //System.out.println("Conexion perdida con Base de datos");
             } catch (NoSuchAlgorithmException ex) {
-                Logger.getLogger(Server.class.getName()).log(Level.SEVERE, null, ex);
+             //   Logger.getLogger(Server.class.getName()).log(Level.SEVERE, null, ex);
             } catch (NoSuchPaddingException ex) {
-                Logger.getLogger(Server.class.getName()).log(Level.SEVERE, null, ex);
+             //   Logger.getLogger(Server.class.getName()).log(Level.SEVERE, null, ex);
             } catch (IllegalBlockSizeException ex) {
-                Logger.getLogger(Server.class.getName()).log(Level.SEVERE, null, ex);
+           //     Logger.getLogger(Server.class.getName()).log(Level.SEVERE, null, ex);
             } catch (BadPaddingException ex) {
-                Logger.getLogger(Server.class.getName()).log(Level.SEVERE, null, ex);
+             //   Logger.getLogger(Server.class.getName()).log(Level.SEVERE, null, ex);
             } catch (InvalidKeyException ex) {
-                Logger.getLogger(Server.class.getName()).log(Level.SEVERE, null, ex);
+             //   Logger.getLogger(Server.class.getName()).log(Level.SEVERE, null, ex);
             }
  
             try {
